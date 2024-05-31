@@ -4,8 +4,8 @@ This is a project me an my teammates are currently working on in this project we
 this in ongoing project
 
 Team members 
-* Shri Narayan Pandey
 * Tanmay Gupta
+* Shri Narayan Pandey
 * Siddhi Gupta
 * Vaishnavi Saxena
 * Mohommad Umar
